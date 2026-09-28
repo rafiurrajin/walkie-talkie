@@ -1,0 +1,8 @@
+body { font-family: system-ui, sans-serif; max-width: 420px; margin: 0 auto; padding: 24px; text-align: center; }
+input, button { font-size: 1.2rem; padding: 12px; margin: 6px; }
+#status { font-size: 1.3rem; margin: 20px 0; min-height: 2em; }
+#talk, #stop { width: 160px; height: 90px; font-weight: bold; border: 0; border-radius: 10px; color: #fff; }
+#talk { background: #2a9d3f; }
+#stop { background: #c62828; }
+button:disabled { opacity: 0.35; }
+#error { color: #c62828; margin-top: 16px; }

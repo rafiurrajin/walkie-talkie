@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LAN Walkie-Talkie</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div id="join">
+    <h1>LAN Walkie-Talkie</h1>
+    <input id="name" maxlength="32" placeholder="Your name" autofocus>
+    <button id="joinBtn">Join</button>
+  </div>
+
+  <div id="main" hidden>
+    <h2 id="me"></h2>
+    <div id="status"></div>
+    <button id="talk">TALK</button>
+    <button id="stop">STOP</button>
+  </div>
+
+  <div id="error"></div>
+  <script src="/client.js"></script>
+</body>
+</html>

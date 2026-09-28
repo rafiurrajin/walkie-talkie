@@ -1,0 +1,38 @@
+=====================================
+  LAN WALKIE-TALKIE: OFFICIAL COPYRIGHT
+  (Please read, there is a quiz later)
+=====================================
+
+Copyright (c) whoever typed the code, plus whoever kept
+saying "it works on my machine".
+
+THE RULES:
+
+1. You may use this software. Go wild. Talk to your family,
+   your coworkers, your cat (the cat will not answer).
+
+2. You may copy it, change it, break it, and fix it again.
+   If you make it better, feel free to tell us. If you make it
+   worse, please don't.
+
+3. You may NOT claim you built this at 3 a.m. on pure genius
+   if you actually built it by asking an AI and pasting the
+   results. We all know. It's fine. Coffee was involved.
+
+4. If this program ruins a surprise party by broadcasting
+   "shhh, he's coming!" to everyone on the network, that is
+   between you and your microphone.
+
+5. There is no warranty. If it stops working, turn it off and
+   on again. If it still doesn't work, blame the Wi-Fi. The
+   Wi-Fi is always a little bit guilty.
+
+6. No animals, sound engineers, or Opus codecs were harmed
+   in the making of this software. Some sample rates were
+   confused for a while, but they're fine now.
+
+7. Whoever presses TALK owns the line. This is the only
+   law that is actually enforced, and the server is
+   very strict about it.
+
+Over and out.
